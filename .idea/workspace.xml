@@ -16,8 +16,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6274196-51b1-4cff-b641-cb3f5d24a5d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HelloWorld.html" afterDir="false" />
+    <list default="true" id="f6274196-51b1-4cff-b641-cb3f5d24a5d0" name="Default Changelist" comment="login attempt 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logInScreen.html" beforeDir="false" afterPath="$PROJECT_DIR$/logInScreen.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +76,14 @@
       <option name="presentableId" value="Default" />
       <updated>1611610689359</updated>
     </task>
+    <task id="LOCAL-00001" summary="login attempt 1">
+      <created>1612720059639</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612720059639</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,8 +108,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="login attempt 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="login attempt 1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="450" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611764502019">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="450" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1611764502019" />
     <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1611610927097">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
