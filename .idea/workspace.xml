@@ -19,10 +19,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6274196-51b1-4cff-b641-cb3f5d24a5d0" name="Default Changelist" comment="page">
+    <list default="true" id="f6274196-51b1-4cff-b641-cb3f5d24a5d0" name="Default Changelist" comment="updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/info.html" beforeDir="false" afterPath="$PROJECT_DIR$/info.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interactivepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/interactivepage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +118,28 @@
       <option name="project" value="LOCAL" />
       <updated>1612988417890</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updates">
+      <created>1612988950385</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612988950385</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updates">
+      <created>1612988955938</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612988955938</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updates">
+      <created>1612989044506</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1612989044506</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,7 +172,8 @@
     <MESSAGE value="login attempt 1" />
     <MESSAGE value="info added" />
     <MESSAGE value="page" />
-    <option name="LAST_COMMIT_MESSAGE" value="page" />
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
   <component name="WindowStateProjectService">
     <state x="627" y="340" key="#Custom_Plugin_Repositories" timestamp="1612986519765">
