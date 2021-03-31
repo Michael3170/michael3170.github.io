@@ -1,0 +1,34 @@
+.navbar {
+    overflow: hidden;
+    font-size: 30px;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+    border: 25px;
+}
+navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change background on mouse-over */
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}
+
+/* Main content */
+.main {
+    margin-top: 375px; /* Add a top margin to avoid content overlay */
+    color:white;
+    font-size: larger;
+    text-align: center;
+}
+body {
+    background-image: url("https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/63/05/04/630504eb-5d88-a6fb-74c0-4466b200f54b/pr_source.png/643x0w.jpg");
+    background-color: #cccccc;
+}
