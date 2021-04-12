@@ -42,8 +42,9 @@
 
 
 body {
-    background-image: url("https://lovefoodhatewaste.ca/wp-content/uploads/2020/11/FoodBackgroundNomeat.jpg");
+    background-image: url("https://image.freepik.com/free-vector/modern-business-presentation-white-background_181182-127.jpg");
     background-color: #cccccc;
+    background-size: cover;
 }
 
 
@@ -53,10 +54,10 @@ body {
     overflow: hidden;
     background-color: #333;
     margin-top: 420px;
-    margin-left: 500px;
+    margin-left: 469px;
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
-    width: 29%; /* Full width */
+    width: fit-content;
 }
 
 /* Links inside the navbar */
@@ -77,8 +78,8 @@ body {
 
 /* Main content */
 .main {
-    margin-top: 375px; /* Add a top margin to avoid content overlay */
-    color:white;
+    margin-top: 350px; /* Add a top margin to avoid content overlay */
+    color: darkslategrey;
     font-size: larger;
     text-align: center;
 }
